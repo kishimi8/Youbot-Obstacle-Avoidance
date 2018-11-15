@@ -4,6 +4,6 @@ Build the project using catkin_build
 
 Run the executable of planner
 
-The code presented allows a YouBot robot to find a motion plan from the initial to a goal position and orients its arm through a given artifact. s
+YouBot moves from the initial position to the goal using potential field based obstacle avoidance.
 
-https://youtu.be/8gItAyH2yXg
+https://www.youtube.com/watch?v=JvigGBSadgc
